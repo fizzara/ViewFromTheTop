@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"fadeToRoom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fadeToRoom",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
